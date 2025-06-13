@@ -3,8 +3,7 @@
 ## Overview
 This project involved a comprehensive analysis of historical traffic and toll violation data from the Port Authority of New York and New Jersey. As a key contributor to a team, my primary objective was to leverage advanced analytical techniques to develop predictive models for future traffic volumes and identify patterns in toll violations, ultimately informing operational improvements and strategic decision-making.
 
-## Team & My Role
-This project was a collaborative effort by the following team members:
+## Contribution
 
 * Conducted weather impact analysis on bridge traffic, performed SARIMA seasonality studies, and contributed to overall project documentation and visualization.
 * Led the modeling efforts for XGBoost regression and SARIMA time series, and drafted responses to major project questions.
@@ -59,10 +58,13 @@ Our collaborative efforts on this project led to:
 ---
 
 ## Visuals
-(These images are embedded directly below. For better long-term organization and consistency, it's recommended to upload these image files into an `images` subfolder within your project directory on GitHub and link to them relatively, e.g., `![Alt Text](images/your_image_name.png)`)
+(These images are embedded directly below. For better long-term organization and consistency, it's recommended to upload these image files into an `images` subfolder within your project directory on GitHub and link to them relatively.
+![prcp by year](https://github.com/user-attachments/assets/5676f007-f19c-4429-9c06-0adf8e34ee99)
+![Trafficbyday](https://github.com/user-attachments/assets/1fa27724-0cc6-44e6-87ae-95f7e3e042ee)
+![voilationtrends](https://github.com/user-attachments/assets/cfcd2756-6afb-489e-974f-8a146d6a597d)
+![12weektotaltraffic](https://github.com/user-attachments/assets/f43d29bd-e742-4ce3-a1e0-ae20a15eaf2e)
+![confusionmatrix](https://github.com/user-attachments/assets/cc789a5f-0d0f-42e1-bff2-1182b954a99b)
 
-![image](https://github.com/user-attachments/assets/3052e042-3292-4629-a256-7b4c1842b41b)
-![image](https://github.com/user-attachments/assets/7df4ffc0-2719-453a-9bd9-d4136516869c)
-![image](https://github.com/user-attachments/assets/f036a451-9e43-4835-aa7a-4a2334563820)
-![image](https://github.com/user-attachments/assets/af5e0758-bae7-48cc-9b1a-bce85c06c8d2)
-![image](https://github.com/user-attachments/assets/e207eb17-ebb6-4910-bd02-ecd6a5dbfae8)
+
+
+
